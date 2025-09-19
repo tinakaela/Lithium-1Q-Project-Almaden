@@ -1,0 +1,189 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:0px;
+    background-image:url(https://static.vecteezy.com/system/resources/previews/008/277/966/non_2x/landscape-of-mountains-and-pine-forests-the-mist-is-above-the-mountains-free-vector.jpg);
+    background-size:cover;
+}
+.header{
+    background-color: rgba(0, 0, 0, 0.144);
+    padding: 30px;
+    display: flex;
+    border-bottom:3px solid;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    margin-left:1350px;  
+}
+.navactive a{
+    color: rgba(6, 63, 63, 0.767);
+     font-size:30px;
+     text-decoration:none;
+}
+.navactive2 a{
+    color:rgba(0, 0, 0, 0.712);
+    font-size:30px;
+}
+.section1 {
+    gap:0px;
+    flex-direction:column;
+    margin-left:100px;
+}
+.header1 {
+    color:rgba(0, 0, 0, 0.767);
+    margin-top:200px;
+    margin-bottom:-80px;
+    gap:0px;
+    font-size:40px;
+    text-align: left;
+}
+.header2 {
+    color:rgba(0, 0, 0, 0.87);
+    margin-bottom:-50px;
+    gap:0px;
+    display: flex;
+    font-size:40px;
+}
+.tagline {
+    color:rgba(0, 0, 0, 0.767);
+    display: flex;
+    font-size:30px;
+    margin-top:30px;
+    max-width:900px;
+}
+.header3 {
+     color:rgba(0, 0, 0, 0.87);
+     font-size:20px;
+     text-align:center;
+     border-bottom :3px solid;
+}
+.header4 {
+     color:rgba(0, 0, 0, 0.87);
+     font-size:25px;
+     text-align:center;
+}
+.section2 {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width: 1100px;
+    margin: 0 auto;
+}
+.section2 p{
+    margin: 20px;
+    text-align:center;
+    background-color: rgba(2, 40, 58, 0.404);
+    padding:30px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 28px;
+}
+.section2 img{
+    border:5px solid rgba(0, 0, 0, 0.849);  
+    width: 1100px;
+    height: 450px;
+    display:block;
+}
+
+.content2{
+    text-align:center;
+    font-size:28px;
+    margin:50px;
+}
+.content2 img{
+    border:5px solid rgba(0, 0, 0, 0.849);
+    width: 800px;
+    height: 400px;
+}
+.content2 p{
+    display: flex;
+    display: inline-block;
+    width: 1100px;
+    background-color: rgba(2, 40, 58, 0.404);
+    padding:30px;
+    margin-top:0px;
+}
+.section3, .section4, .section5, .section6{
+    display:flex;
+    gap: 20px;
+    align-items:flex-start;
+    margin:50px;
+}
+.header5{
+    margin-left:1180px;
+    display:flex;
+    margin-bottom:-60px;
+}
+.header6{
+    margin-left:50px;
+    display:flex;
+    margin-bottom:-60px;
+}
+.references{
+    margin-top:250px;
+    text-align:left;
+}
+.header7{
+    margin-left:100px;
+    margin-bottom:-50px;
+    font-size:30px;
+}
+.content3{
+    margin-left: 100px;
+    display: flex;       
+    gap: 40px;
+    align-items: flex-start;
+}
+.section7 {
+    display:flex;
+    display: inline-block;
+    width: 800px;
+}
+.section7 img{
+    width: 800px;          
+    height: 300px;
+}
+.section8 img{
+    width: 800px;          
+    height: 600px;
+    display: block;
+    margin-left:30px;
+    margin-top:50px;
+}
+.section8{
+    border-left: 3px solid black;
+    margin-top:-100px;
+    height:694px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
